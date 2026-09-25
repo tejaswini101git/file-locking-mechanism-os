@@ -1,0 +1,18 @@
+# Compiled executable
+file_locking
+*.out
+*.exe
+
+# Generated shared file
+shared_file.txt
+
+# Object files
+*.o
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
